@@ -1,5 +1,4 @@
 # irp
-=======
 ## A CNN for the Spatial Downscaling of Global Aerosol Optical Depth (AOD)
 [![tests](https://github.com/j0shmillar/irp/actions/workflows/tests.yml/badge.svg)](https://github.com/j0shmillar/irp/actions/workflows/tests.yml)
 [![flake8](https://github.com/j0shmillar/irp/actions/workflows/flake8.yml/badge.svg)](https://github.com/j0shmillar/irp/actions/workflows/flake8.yml)
