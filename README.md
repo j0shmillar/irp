@@ -1,9 +1,9 @@
 # irp
 =======
 ## A CNN for the Spatial Downscaling of Global Aerosol Optical Depth (AOD)
-[![tests](https://github.com/j0shmillar/irp/tree/main/actions/workflows/tests.yml/badge.svg)](https://github.com/j0shmillar/irp/tree/main/actions/workflows/tests.yml)
-[![flake8](https://github.com/j0shmillar/irp/tree/main/actions/workflows/flake8.yml/badge.svg)](https://github.com/j0shmillar/irp/tree/main/actions/workflows/flake8.yml)
-[![sphinx](https://github.com/j0shmillar/irp/tree/main/actions/workflows/sphinx.yml/badge.svg)](https://github.com/j0shmillar/irp/tree/main/actions/workflows/sphinx.yml)
+[![tests](https://github.com/j0shmillar/irp/actions/workflows/tests.yml/badge.svg)](https://github.com/j0shmillar/irp/actions/workflows/tests.yml)
+[![flake8](https://github.com/j0shmillar/irp/actions/workflows/flake8.yml/badge.svg)](https://github.com/j0shmillar/irp/actions/workflows/flake8.yml)
+[![sphinx](https://github.com/j0shmillar/irp/actions/workflows/sphinx.yml/badge.svg)](https://github.com/j0shmillar/irp/actions/workflows/sphinx.yml)
 
 This repo includes the foundational code used in training and evaluating a ResNet-based model (built in PyTorch) for the downscaling of satellite/GCM-obtained AOD data. All code was originally run using the [JASMIN](https://jasmin.ac.uk) GPU cluster.
 
