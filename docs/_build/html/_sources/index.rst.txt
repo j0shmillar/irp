@@ -1,0 +1,32 @@
+.. irp-jm4622 documentation master file, created by
+   sphinx-quickstart on Fri Aug 18 14:17:46 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to irp-jm4622's documentation!
+======================================
+
+.. automodule:: src.models.resnet
+    :members:
+
+.. automodule:: src.data.create_data
+    :members:
+
+.. automodule:: src.data.data_loader
+    :members:
+
+.. automodule:: src.misc.aeronet_vs_cams
+    :members:
+
+.. automodule:: src.plotting
+    :members:
+
+.. automodule:: src.train
+    :members:
+
+.. automodule:: src.utils
+    :members:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:

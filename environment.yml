@@ -1,0 +1,14 @@
+name: aod-ds
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - ipython
+  - pip
+  - flake8
+  - pyhdf
+  - pyresample
+  - pip:
+    - -r requirements.txt
+    - -e .
